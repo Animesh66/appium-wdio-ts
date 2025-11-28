@@ -12,5 +12,8 @@
   },
   "scripts": {
     "wdio": "wdio run ./wdio.conf.ts"
+  },
+  "dependencies": {
+    "appium": "^3.1.1"
   }
 }
