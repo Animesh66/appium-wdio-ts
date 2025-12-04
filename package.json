@@ -8,6 +8,7 @@
     "@wdio/mocha-framework": "^9.20.1",
     "@wdio/spec-reporter": "^9.20.0",
     "@wdio/visual-service": "^9.0.1",
+    "appium-inspector-plugin": "^2025.11.1",
     "appium-uiautomator2-driver": "^6.3.0"
   },
   "scripts": {
